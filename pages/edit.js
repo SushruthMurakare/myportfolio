@@ -431,7 +431,7 @@ const Edit = () => {
           </>
         )}
         {/* SERVICES */}
-        {currentTabs === "SERVICES" && (
+        {/* {currentTabs === "SERVICES" && (
           <>
             <div className="mt-10">
               {data.services.map((service, index) => (
@@ -484,7 +484,7 @@ const Edit = () => {
               </Button>
             </div>
           </>
-        )}
+        )} */}
         {currentTabs === "ABOUT" && (
           <div className="mt-10">
             <h1 className="text-2xl">About</h1>

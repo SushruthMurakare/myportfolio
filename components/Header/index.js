@@ -6,7 +6,7 @@ import Button from "../Button";
 // Local Data
 import data from "../../data/portfolio.json";
 
-const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
+const Header = ({ handleWorkScroll, handleAboutScroll, handleExperienceScroll, handleEducationScroll, isBlog }) => {
   const router = useRouter();
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
@@ -100,7 +100,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() => router.push("/Sushruth_Resume.pdf")}
                       classes="first:ml-1"
                     >
                       Resume
@@ -127,27 +127,30 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
           onClick={() => router.push("/")}
           className="font-medium cursor-pointer mob:p-2 laptop:p-0"
         >
-          {name}.
+          {}
         </h1>
         {!isBlog ? (
           <div className="flex">
-            <Button onClick={handleWorkScroll}>Work</Button>
             <Button onClick={handleAboutScroll}>About</Button>
+            <Button onClick={handleExperienceScroll}>Experience</Button>
+            <Button onClick={handleEducationScroll}>Education</Button>
+            {/* <Button onClick={()=>{}}>Gallery</Button> */}
+            <Button onClick={handleWorkScroll}>Projects</Button>
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => window.open("/Sushruth_Resume.pdf", "_blank")}
                 classes="first:ml-1"
               >
                 Resume
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            {/* <Button onClick={() => router.push('/contact')}>
               Contact
-            </Button>
+            </Button> */}
             {mounted && theme && data.darkMode && (
               <Button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
@@ -167,7 +170,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => router.push("/Sushruth_Resume.pdf")}
                 classes="first:ml-1"
               >
                 Resume

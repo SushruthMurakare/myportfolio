@@ -1,1 +1,175 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Sushruth",
+  "headerTaglineOne": "Hello World!",
+  "headerTaglineTwo": "I'm Sushruth Murakare ",
+  "headerTaglineThree": "Software Developer",
+  "headerTaglineFour": " ",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": false,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/sushruthmurakare/"
+    },
+    {
+      "id": "2",
+      "title": "Github",
+      "link": "https://github.com/SushruthMurakare"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:sushruth_rao@mines.edu" },
+    {
+      "id": "3",
+      "title": "Linq",
+      "link": "https://linqapp.com/sushruth_murakare?r=link"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Access control system with masked face recognition (Thesis Project)  ",
+      "description": "Developed an access control system using Python’s face recognition library to recognize faces even when partially  covered, improving security for masked individuals.",
+      "imageSrc": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12C76/production/_116381967_facemask.jpg.webp",
+      "url": "https://github.com/SushruthMurakare/Masked-Face-Recognition"
+    },
+    {
+      "id": "2",
+      "title": "TODO - KinderTech robot",
+      "description": "Developing a software for nao robot that can be used in the kindergarten/elementary level school to make learning fun for kids and assist teachers with their daily tasks.",
+      "imageSrc": "https://fortunerobotics.com/wp-content/uploads/2024/02/DSC04807-3-e1665753637974.jpg",
+      "url": "https://github.com/SushruthMurakare/TODO_robot"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Graduate Scientific Programmar",
+      "organization": "Payne Institute for Public Policy",
+      "location": "Golden, Colorado",
+      "started": "Sep 2024",
+      "ended": "Present",
+      "description": [
+        "Working as a full-stack web developer to improve software that maps electric lighting, gas flaring, and wildfires.",
+        "Successfully implemented a new layer to display the latest 2023 data on the map, enhancing the user experience by replacing simple markers with custom icons.",
+        "Improved application performance by testing, fixing multiple bugs, and updating packages.",
+        "Actively investing time to upskill and expanding understanding of the entire software development process. "
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Senior Developer",
+      "organization": " Tecnotree Convergence Private Limited",
+      "location": "Bangalore, India",
+      "started": "Sep 2023",
+      "ended": "July 2024",
+      "description": [
+        "Contributed to developing a user-end mobile application by introducing major features and fixing bugs.",
+        "Made the application stable by updating several deprecated libraries within a week on joining the project.",
+        "Successfully implemented detox library, an end-to-end automation testing eliminating the need for a tester.",
+        "Won a team award for successfully delivering an SDK with a major feature for client service in Kuwait, resulting in outstanding performance."
+      ],
+      "url": ""
+    },
+    {
+      "id": "3",
+      "title": "Software Developer",
+      "organization": " Tecnotree Convergence Private Limited",
+      "location": "Bangalore, India",
+      "started": "Sep 2022",
+      "ended": "Aug 2023",
+      "description": [
+        "Developed essential features for a user-end web application while actively addressing diverse issues from operational companies such as those in Ghana, South Sudan, Zambia, Kuwait, Oman, Zain Bahrain.",
+        "Utilized GraphQL for consolidating multiple REST APIs throughout the application, eliminating redundant data for enhanced efficiency and improved performance.",
+        "Implemented and maintained web protocols such as HTTP/HTTPS to ensure secure and reliable communication.",
+        "Attained a 'Consistently Exceeds Expectations' top rating (5 out of 5) from my manager, culminating in a well-deserved promotion."
+      ],
+      "url": ""
+    },
+    {
+      "id": "4",
+      "title": "Intern",
+      "organization": "Tecnotree Convergence Private Limited",
+      "location": "Bangalore, India",
+      "started": "Jan 2022",
+      "ended": "Aug 2022",
+      "description": [
+        "Gained in-depth insights into core products, client operations, and their needs, bolstered by a top 5 rank in Industry-Ready Training, earned through strong internship performance and mentor commendation.",
+        "Contributed to the testing and development of a core product by creating extensive test data through customer registration, and securing a position in the Product Research and Development team."
+      ],
+      "url": ""
+    },
+    {
+      "id": "5",
+      "title": "Frontend Developer",
+      "organization": "Credental LLC",
+      "location": "Lehi, Utah | Remote",
+      "started": "Oct 2022",
+      "ended": "Apr 2023",
+      "description": [
+        "Developed the entire frontend for a US-based startup, Credental, collaborating with a team in Lehi, Utah.",
+        "Contributed significantly to real-time app development during off-hours and weekends, gaining practical tech experience and building essential skills as a fresher.",
+        "The project is about to go live in the US and can be accessed through Credental.net on the browser."
+      ],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "institution": "Colorado School of Mines",
+      "degree": "Master of Science in Computer Science",
+      "location": "Golden, Colorado",
+      "graduated": "Dec 2025",
+      "gpa": "3.56",
+      "relatedCourses": "Theory of Computation, Human AI Interaction",
+      "url": "https://www.mines.edu/"
+    },
+    {
+      "id": "2",
+      "institution": "Visvesvaraya Technological University",
+      "location": "Karnataka, India",
+      "degree": "Bachelor of Engineering in Information Science",
+      "graduated": "Aug 2022",
+      "gpa": "3.27",
+      "relatedCourses": "DataStructures and Algorithms, Operating Systems, Computer Organization, Software Engineering, Programming Languages.",
+      "url": "https://vtu.ac.in/en/"
+    }
+  ],
+  "contact": {
+    "personalEmail": "sushruthraomurakare@gmail.com",
+    "offcialEmail": "sushruth_rao@mines.edu",
+    "linkedin": "https://www.linkedin.com/in/sushruthmurakare/",
+    "github": "https://github.com/SushruthMurakare"
+  },
+  "aboutpara": "I am Sushruth Rao Murakare, a passionate software developer with a strong interest in creating web and mobile applications. My journey in software development has given me a clear direction in life—transforming me from someone unsure of their goals to someone taking bold steps, including pursuing a master’s degree in the USA, to chase my dreams. I bring professional experience in software development, gained both in the corporate world and through freelancing. Currently, I am on a path to becoming a full-stack developer, dedicated to solving real-world problems through innovative software solutions.\n\n\n\n\n\n\n",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
